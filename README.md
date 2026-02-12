@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="onepiece.gif" width="100%" style="height: auto; display: block; object-fit: cover; border-radius: 10px;">
+  <img src="onepiece.gif" width="50%" style="height: auto; display: block; object-fit: cover; border-radius: 10px;">
   
   <br>
 
