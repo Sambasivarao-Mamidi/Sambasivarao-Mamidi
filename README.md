@@ -11,11 +11,11 @@
   
   <br>
 
-  <h3>
+  <h4>
     <i>"I decided to be the King of the Pirates.<br>I don't care if I die fighting for it!"</i>
     <br>
     — Monkey D. Luffy
-  </h3>
+  </h4>
 </div>
 
 <br>
@@ -33,7 +33,7 @@
   
   <br><br>
 
-  <h3 width="80%">
+  <h4 width="80%">
     I am a developer who believes <b>Code is Poetry</b> written in logic.
     <br><br>
     Currently navigating the vast ocean of <b>Full Stack Development</b>, I specialize in building 
@@ -41,7 +41,7 @@
     Create applications that look beautiful and work flawlessly.
     <br><br>
     <i>I don't just write syntax; I solve problems.</i>
-  </h3>
+  </h4>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27E1C1&center=true&vCenter=true&width=400&lines=MANTRA:;LEARN.+IMPLEMENT.+BUILD." alt="Typing SVG" />
@@ -69,13 +69,13 @@
 
   <br>
 
-  <h3>
+  <h4>
     When the server crashes, I head to the Land of Dawn.
     <br><br>
     <b>Roles:</b> Mage / Support / Tank
     <br>
     <i>"A good Roamer saves the carry. A great Roamer carries the game."</i>
-  </h3>
+  </h4>
 </div>
 
 <br>
@@ -93,12 +93,12 @@
   
   <br>
 
-  <h3>
+  <h4>
     <br>
     "Programming is 10% writing code and 90% understanding why it’s not working."
     <br><br>
     <i>— The Developer's Dilemma</i>
-  </h3>
+  </h4>
 </div>
 
 <br>
