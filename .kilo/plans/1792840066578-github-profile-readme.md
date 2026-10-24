@@ -1,37 +1,34 @@
-# Plan: Add clickable links under all profile sections
+# Plan: Populate vinyl sleeve with live GitHub repositories
 
 ## Goal
-Make every profile section have working clickable links beneath its SVG, including profile links and selected GitHub project links.
+Fetch repositories from `https://github.com/Sambasivarao-Mamidi` and use them as the vinyl sleeve tracklist and selected works list.
 
 ## Decisions
-- Add Markdown link blocks under:
-  - Aurora Veil
-  - Open to Work
-  - Vinyl Sleeve
-- Profile links: Portfolio, LinkedIn, GitHub.
-- Project links: use existing repositories:
-  - A2Z-DSA-Sheet
-  - whatsapp-wrapped
-  - Game_Station
-  - Portfolio
-  - Attendance_Project-main
-- Vinyl tracklist links should map to those repositories.
-- SVG `<a>` tags remain non-functional on GitHub; Markdown links are the working layer.
+- Source: live GitHub repository list for `Sambasivarao-Mamidi`.
+- Selection: top 5 public repositories by recent activity/stars, excluding forks if possible.
+- Update both:
+  - `assets/vinyl-sleeve.svg` tracklist rows
+  - `README.md` selected works links
+- Assign plausible run times to each selected repository.
+- Keep profile image links absent unless separately requested.
 
 ## Affected files
+- `assets/vinyl-sleeve.svg`
 - `README.md`
 
 ## Tasks
-1. Add profile link row under Aurora Veil.
-2. Add contact/project links under Open to Work.
-3. Add tracklist project links under Vinyl Sleeve, one per track.
-4. Validate all URLs are absolute and reachable.
-5. Review diff and push.
+1. Fetch repository list using `gh repo list Sambasivarao-Mamidi --limit 100 --json name,url,description,isFork,pushedAt,stargazerCount`.
+2. Select 5 repositories for the tracklist.
+3. Update SVG tracklist titles and run times without breaking layout.
+4. Update README selected works list with repository names and URLs.
+5. Validate no broken links and review diff.
+6. Commit and push.
 
 ## Risks
-- Long track URLs may wrap; use concise link text.
-- Avoid duplicate or broken anchors.
+- GitHub API/CLI authentication or rate limits.
+- Long repository names may overflow the SVG tracklist area.
+- Repository list may change; selected set should be deterministic by pushed date.
 
 ## Validation
-- `git diff -- README.md`
-- Manual check of all Markdown links.
+- `git diff -- assets/vinyl-sleeve.svg README.md`
+- Confirm all selected repository URLs are valid.
