@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/hero-banner.svg" width="100%" alt="Sambasivarao-Mamidi — UI Engineer • Frontend Developer • Vishakhapatnam"/>
+  <code style="font-size: 32px; font-weight: 800;">Sambasivarao-Mamidi</code>
+</p>
+
+<p align="center">
+  <b>UI Engineer • Frontend Developer • Vishakhapatnam</b>
 </p>
 
 <p align="center">
@@ -10,23 +14,27 @@
 
 ---
 
-<details>
-<summary><b>$ whoami</b> — click to expand</summary>
+<details open>
+<summary><b>$ whoami</b></summary>
 
-<p>
-Hi, I'm <b>Sambasivarao-Mamidi</b>, a UI Engineer and Frontend Developer based in <b>Vishakhapatnam</b>. I turn ideas into clean, working products — from pixel-perfect interfaces to robust full-stack applications.
-</p>
+```bash
+$ whoami
+Sambasivarao-Mamidi — UI Engineer & Frontend Developer
 
-<blockquote>
-“I don’t just write syntax — I solve problems. Code is poetry written in logic.”
-</blockquote>
+$ cat about.txt
+I turn ideas into clean, working products — from pixel-perfect
+interfaces to robust full-stack applications.
 
-**Currently navigating:** Full Stack Development  
-**Goal:** Build applications that look beautiful and work flawlessly.
+"I don't just write syntax — I solve problems.
+Code is poetry written in logic."
+
+Currently navigating: Full Stack Development
+Goal: Build applications that look beautiful and work flawlessly.
+```
 
 </details>
 
-<img src="assets/divider.svg" width="100%"/>
+---
 
 ## 🧰 Tech Arsenal
 
@@ -53,34 +61,9 @@ Hi, I'm <b>Sambasivarao-Mamidi</b>, a UI Engineer and Frontend Developer based i
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
-<img src="assets/divider.svg" width="100%"/>
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| <b>A2Z-DSA-Sheet</b> | Step-by-step guide to mastering Data Structures and Algorithms from basic to advanced level. | Python | [View →](https://github.com/Sambasivarao-Mamidi/A2Z-DSA-Sheet) |
-| <b>whatsapp-wrapped</b> | WhatsApp chat analysis and insights. | TypeScript | [View →](https://github.com/Sambasivarao-Mamidi/whatsapp-wrapped) |
-| <b>Game_Station</b> | A gaming-focused frontend project. | CSS | [View →](https://github.com/Sambasivarao-Mamidi/Game_Station) |
-| <b>Portfolio</b> | Personal portfolio website. | CSS | [View →](https://github.com/Sambasivarao-Mamidi/Portfolio) |
-| <b>Attendance_Project-main</b> | Attendance management system. | JavaScript | [View →](https://github.com/Sambasivarao-Mamidi/Attendance_Project-main) |
-
-<img src="assets/divider.svg" width="100%"/>
-
-## 📊 GitHub in Numbers
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sambasivarao-Mamidi&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sambasivarao-Mamidi&theme=dark&border_radius=4.5&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambasivarao-Mamidi&theme=github_dark&hide=html,css&layout=compact&hide_border=true" width="100%"/>
-</p>
-
-<img src="assets/divider.svg" width="100%"/>
+---
 
 <p align="center">
   <b>Turning logic into art.</b><br>
-  <i>$ exit 0</i>
+  <code>$ exit 0</code>
 </p>
