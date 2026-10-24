@@ -16,19 +16,19 @@
     <circle cx="94" cy="63" r="5" fill="#16a34a">
       <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
     </circle>
-    <text x="110" y="68" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#14532d" letter-spacing="2">OPEN TO WORK</text>
+    <text x="110" y="68" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="16" font-weight="700" fill="#14532d" letter-spacing="2">OPEN TO WORK</text>
   </g>
   <text x="1128" y="68" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#8a8a84" letter-spacing="2.5">UPDATED SEPTEMBER 2026</text>
 
   <text x="72" y="140" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, sans-serif" font-size="52" font-weight="800" fill="#131316" letter-spacing="-1.5">Sambasivarao-Mamidi</text>
-  <text x="72" y="172" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="20" fill="#4a4a52">UI Engineer · Frontend Developer · Vishakhapatnam</text>
+  <text x="72" y="172" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="24" fill="#4a4a52">UI Engineer · Frontend Developer · Vishakhapatnam</text>
 
   <line x1="72" y1="204" x2="1128" y2="204" stroke="#e2e2dd"/>
 
   <!-- What I want / what I don't. The second column is the one people
        remember, because almost nobody writes it down. -->
-  <text x="72" y="238" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" fill="#16a34a" letter-spacing="3.5">LOOKING FOR</text>
-  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="16" fill="#22222a">
+  <text x="72" y="238" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#16a34a" letter-spacing="3.5">LOOKING FOR</text>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="18" fill="#22222a">
     <text x="72" y="268">Product teams that own a surface end to end</text>
     <text x="72" y="294">Design systems with real adoption pressure</text>
     <text x="72" y="320">Remote-first, EU-overlapping hours</text>
@@ -37,8 +37,8 @@
     <circle cx="58" cy="263" r="3"/><circle cx="58" cy="289" r="3"/><circle cx="58" cy="315" r="3"/>
   </g>
 
-  <text x="640" y="238" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" fill="#a16207" letter-spacing="3.5">NOT LOOKING FOR</text>
-  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="16" fill="#5a5a62">
+  <text x="640" y="238" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#a16207" letter-spacing="3.5">NOT LOOKING FOR</text>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="18" fill="#5a5a62">
     <text x="640" y="268">Relocation, or on-site five days</text>
     <text x="640" y="294">Agency work on a two-week cadence</text>
     <text x="640" y="320">Anything that starts with a take-home over 4h</text>
@@ -52,17 +52,17 @@
   <!-- Facts strip -->
   <line x1="72" y1="346" x2="1128" y2="346" stroke="#e2e2dd"/>
   <g font-family="ui-monospace, Menlo, Consolas, monospace">
-    <text x="72" y="368" font-size="9" fill="#8a8a84" letter-spacing="2.5">AVAILABLE</text>
-    <text x="72" y="390" font-size="15" font-weight="700" fill="#131316">Nov 2026</text>
-    <text x="256" y="368" font-size="9" fill="#8a8a84" letter-spacing="2.5">TIMEZONE</text>
-    <text x="256" y="390" font-size="15" font-weight="700" fill="#131316">UTC+3</text>
-    <text x="424" y="368" font-size="9" fill="#8a8a84" letter-spacing="2.5">TYPE</text>
-    <text x="424" y="390" font-size="15" font-weight="700" fill="#131316">Full-time · Contract</text>
-    <text x="704" y="368" font-size="9" fill="#8a8a84" letter-spacing="2.5">NOTICE</text>
-    <text x="704" y="390" font-size="15" font-weight="700" fill="#131316">6 weeks</text>
+    <text x="72" y="368" font-size="11" fill="#8a8a84" letter-spacing="2.5">AVAILABLE</text>
+    <text x="72" y="390" font-size="18" font-weight="700" fill="#131316">Nov 2026</text>
+    <text x="256" y="368" font-size="11" fill="#8a8a84" letter-spacing="2.5">TIMEZONE</text>
+    <text x="256" y="390" font-size="18" font-weight="700" fill="#131316">UTC+3</text>
+    <text x="424" y="368" font-size="11" fill="#8a8a84" letter-spacing="2.5">TYPE</text>
+    <text x="424" y="390" font-size="18" font-weight="700" fill="#131316">Full-time · Contract</text>
+    <text x="704" y="368" font-size="11" fill="#8a8a84" letter-spacing="2.5">NOTICE</text>
+    <text x="704" y="390" font-size="18" font-weight="700" fill="#131316">6 weeks</text>
   </g>
   <g>
     <rect x="820" y="356" width="308" height="42" rx="6" fill="#131316"/>
-    <text x="978" y="383" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#f7f7f5" letter-spacing="1">sambasivarao-mamidi.vercel.app →</text>
+    <text x="978" y="383" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="16" font-weight="700" fill="#f7f7f5" letter-spacing="1">sambasivarao-mamidi.vercel.app →</text>
   </g>
 </svg>
