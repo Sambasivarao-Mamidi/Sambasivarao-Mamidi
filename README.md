@@ -22,3 +22,7 @@ Notes on interfaces, frontend craft, and turning logic into art.
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="./assets/typewriter-intro.svg" alt="Sambasivarao-Mamidi — terminal session" width="100%" />
+</p>
