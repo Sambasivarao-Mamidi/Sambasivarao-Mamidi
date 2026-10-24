@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sambasivarao-mamidi.vercel.app/">
+  <a href="https://mamidi-sambasivarao.vercel.app/">
     <img src="./assets/open-to-work.svg" alt="Sambasivarao-Mamidi — open to work" width="100%" />
   </a>
 </p>
