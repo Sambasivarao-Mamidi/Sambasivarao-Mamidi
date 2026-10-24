@@ -11,3 +11,10 @@
 <p align="center">
   <img src="./assets/vinyl-sleeve.svg" alt="Sambasivarao-Mamidi — selected works" width="100%" />
 </p>
+
+### selected works
+- [Sambasivarao-Mamidi](https://github.com/Sambasivarao-Mamidi/Sambasivarao-Mamidi)
+- [Mamidi-Sambasivarao](https://github.com/Sambasivarao-Mamidi/Mamidi-Sambasivarao)
+- [GymKear](https://github.com/Sambasivarao-Mamidi/GymKear)
+- [Attendance_Project-main](https://github.com/Sambasivarao-Mamidi/Attendance_Project-main)
+- [whatsapp-wrapped](https://github.com/Sambasivarao-Mamidi/whatsapp-wrapped)
